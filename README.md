@@ -1,4 +1,4 @@
-# companion-module-arokona-blade
+# companion-module-arokona-bladerunner
 
 See [HELP.md](./companion/HELP.md) and [LICENSE](./LICENSE)
 
